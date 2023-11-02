@@ -1,0 +1,7 @@
+{
+	"devDependencies": {
+		"vuepress": "2.0.0-beta.67",
+		"@vuepress/client": "2.0.0-beta.67",
+		"vue": "^3.3.4"
+	}
+}
